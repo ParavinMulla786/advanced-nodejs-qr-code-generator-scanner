@@ -1,0 +1,46 @@
+[
+  {
+    "id": "qr_1782803315505.png",
+    "fileName": "qr_1782803315505.png",
+    "text": "https://example.com",
+    "createdAt": "2026-06-30T07:08:35.596Z",
+    "expiryDate": "2026-06-30T08:08:35.502Z",
+    "size": 300,
+    "color": "#000000",
+    "bgColor": "#ffffff",
+    "filePath": "/uploads/qr_1782803315505.png"
+  },
+  {
+    "id": "qr_1782804984278.png",
+    "fileName": "qr_1782804984278.png",
+    "text": "https://www.google.com/",
+    "createdAt": "2026-06-30T07:36:24.406Z",
+    "expiryDate": "2026-06-30T08:36:24.268Z",
+    "size": 300,
+    "color": "#000000",
+    "bgColor": "#ffffff",
+    "filePath": "/uploads/qr_1782804984278.png"
+  },
+  {
+    "id": "qr_1782805309884.png",
+    "fileName": "qr_1782805309884.png",
+    "text": "https://www.google.com/",
+    "createdAt": "2026-06-30T07:41:49.975Z",
+    "expiryDate": "2026-06-30T08:41:49.878Z",
+    "size": 300,
+    "color": "#000000",
+    "bgColor": "#ffffff",
+    "filePath": "/uploads/qr_1782805309884.png"
+  },
+  {
+    "id": "qr_1782805569597.png",
+    "fileName": "qr_1782805569597.png",
+    "text": "https://www.google.com/",
+    "createdAt": "2026-06-30T07:46:09.734Z",
+    "expiryDate": "2026-06-30T08:46:09.591Z",
+    "size": 300,
+    "color": "#000000",
+    "bgColor": "#ffffff",
+    "filePath": "/uploads/qr_1782805569597.png"
+  }
+]
